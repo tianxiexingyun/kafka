@@ -12,3 +12,7 @@ project/sbt_project_definition.iml
 *~
 *#
 .#*
+.gradle/
+core/build/
+docs/
+project/project/
